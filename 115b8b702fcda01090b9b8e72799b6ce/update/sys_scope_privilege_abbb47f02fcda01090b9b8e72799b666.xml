@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Shopping List">115b8b702fcda01090b9b8e72799b6ce</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-10 19:09:10</sys_created_on>
+        <sys_id>abbb47f02fcda01090b9b8e72799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ResourceSupport</sys_name>
+        <sys_package display_value="Shopping List" source="x_555285_shopping">115b8b702fcda01090b9b8e72799b6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">115b8b702fcda01090b9b8e72799b6ce</sys_scope>
+        <sys_update_name>sys_scope_privilege_abbb47f02fcda01090b9b8e72799b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-10 19:09:10</sys_updated_on>
+        <target_name>ResourceSupport</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
